@@ -1,0 +1,13 @@
+STAR-RISs: Simultaneous Transmitting and Reflecting
+Reconfigurable Intelligent Surfaces
+
+In this letter, simultaneous transmitting and
+reflecting reconfigurable intelligent surfaces (STAR-RISs) are
+studied. Compared with the conventional reflecting-only RISs,
+the coverage of STAR-RISs is extended to 360 degrees via simultaneous transmission and reflection. A general hardware model
+for STAR-RISs is presented. Then, channel models are proposed
+for the near-field and the far-field scenarios, based on which
+the diversity gain of the STAR-RISs is analyzed and compared
+with that of the conventional RISs. Numerical simulations are
+provided to verify analytical results and to demonstrate that full
+diversity order can be achieved on both sides of the STAR-RIS.
