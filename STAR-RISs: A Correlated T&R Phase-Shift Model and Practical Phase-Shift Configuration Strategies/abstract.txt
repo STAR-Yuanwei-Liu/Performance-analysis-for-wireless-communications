@@ -1,0 +1,14 @@
+STAR-RISs: A Correlated T&R Phase-Shift Model and Practical Phase-Shift Configuration Strategies
+
+Abstract:
+A correlated transmission and reflection (T&R) phase-shift model is proposed for passive lossless simultaneously transmitting and reflecting reconfigurable intelligent surfaces (STAR-RISs).
+A STAR-RIS-aided two-user downlink communication system is investigated for both orthogonal multiple access (OMA) and non-orthogonal multiple access (NOMA).
+To evaluate the impact of the correlated T&R phase-shift model on the communication performance, three phase-shift configuration strategies are developed, namely the primary-secondary phase-shift configuration (PS-PSC), the diversity preserving phase-shift configuration (DP-PSC), and the T/R-group phase-shift configuration (TR-PSC) strategies.
+Furthermore, we derive the outage probabilities for the three proposed phase-shift configuration strategies
+as well as for those for the
+random phase-shift configuration and the independent phase-shift model, which constitute performance lower and upper bounds, respectively.
+Then, the diversity order of each strategy is investigated based on the obtained analytical results. It is shown that 
+the proposed DP-PSC strategy achieves
+full diversity order simultaneously for users located on both sides of the STAR-RIS. Moreover, power scaling laws are derived for the three proposed strategies and for the random phase-shift configuration.
+Numerical simulations 
+reveal a performance gain if the users on both sides of the STAR-RIS are served by NOMA instead of OMA. Moreover, it is shown that the proposed DP-PSC strategy yields the same diversity order as achieved by STAR-RISs under the independent phase-shift model and a comparable power scaling law with only $4$ dB reduction in received power.
