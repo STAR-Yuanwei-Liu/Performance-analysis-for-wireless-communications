@@ -1,1 +1,34 @@
+This simulation code is mainly used to reproduce the results of the following paper [1]:
 
+[1] Chongjun Ouyang, Yuanwei Liu, and Hongwen Yang, "Performance of Downlink and Uplink Integrated Sensing and Communications (ISAC) Systems," in IEEE Wireless Communications Letters, vol. 21, no. 9, pp. 7653-7667, Sep. 2022, doi: 10.1109/LWC.2022.3184409.
+
+If you use this simulation code package in any way, please cite the original paper [1] above. The corresponding BiBTeX citation is given below:
+
+@article{Ouyang2022WCL,
+  title={Performance of Downlink and Uplink Integrated Sensing and Communications (ISAC) Systems},
+  author={Ouyang, Chongjun and Liu, Yuanwei and Yang, Hongwen},
+  journal={IEEE Wireless Communications Letters},
+  volume={11},
+  number={9},
+  pages={1850--1854},
+  year={2022},
+  month=sep,
+  publisher={IEEE}
+}
+The author in charge of this simulation code package is: Chongjun Ouyang (email: dragonaim@bupt.edu.cn).
+
+Uplink_Sensing_Rate.m: This is used to characterize the uplink sensing rate in the paper
+Uplink_Rate_Region.m: This is used to characterize the uplink rate region in the paper
+Uplink_OP.m: This is used to characterize the uplink outage probability of communication users in the paper
+Uplink_ECR.m: This is used to characterize the uplink ergodic rate of communication users in the paper
+Downlink_Sensing_Rate.m: This is used to characterize the downlink sensing rate in the paper
+Downlink_Rate_Region.m: This is used to characterize the downlink rate region in the paper
+Downlink_OP.m: This is used to characterize the downlink outage probability of communication users in the paper
+Downlink_ECR.m: This is used to characterize the downlink ergodic rate of communication users in the paper
+
+
+Note to change the parameters and modes according to your demand.
+
+Enjoy the reproducible research!
+
+All Rights Reserved.
